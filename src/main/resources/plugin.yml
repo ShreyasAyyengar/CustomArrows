@@ -1,0 +1,7 @@
+name: CustomArrows
+version: '${project.version}'
+main: me.shreyasayyengar.customarrows.CustomArrowsPlugin
+api-version: 1.17
+prefix: CustomArrows
+authors: [ ShreyasAyyengar ]
+description: Adds custom arrow functionality
